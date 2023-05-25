@@ -1,0 +1,8 @@
+CREATE TABLE user (
+    id INTEGER PRIMARY KEY,
+    nome TEXT
+);
+
+INSERT INTO user (nome) VALUES ('User 1');
+INSERT INTO user (nome) VALUES ('User 2');
+INSERT INTO user (nome) VALUES ('User 3');
